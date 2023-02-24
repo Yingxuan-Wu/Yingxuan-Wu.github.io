@@ -4524,7 +4524,7 @@ input[type=button].btn-block {
   display: block;
 }
 
-.navbar {
+.-dark {
   position: relative;
   display: flex;
   flex-wrap: wrap;
@@ -6992,7 +6992,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #28a745 !important;
 }
 
 a.bg-primary:hover,
@@ -10726,7 +10726,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #28a745 !important;
 }
 
 a.text-primary:hover,
