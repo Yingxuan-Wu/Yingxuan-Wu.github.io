@@ -2,8 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Bi-Weekly Reports"
+    url: https://mmistakes.github.io/minimal-mistakes/biweekly-reports/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
