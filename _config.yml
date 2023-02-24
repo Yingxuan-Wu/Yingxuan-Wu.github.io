@@ -1,0 +1,7 @@
+title: "STOR 565 Project"
+author: "IDK"
+description: "hi"
+permalink: /:title/
+lang: "en"
+date_format: "%B %d, %Y"
+theme: jekyll-theme-slate
