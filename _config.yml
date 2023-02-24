@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Rena Chong"
+name                     : "STOR 565 (Group: IDK)"
 description              : "My portfolio website."
-url                      : "https://renachongpq.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yingxuan-wu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "renachongpq/renachongpq.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Yingxuan-Wu/Yingxuan-Wu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/renachongpq"
+      # url: "https://github.com/Yingxuan-Wu.github.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin
-      url: "https://www.linkedin.com/in/rena-chong-pei-qi/"
+      # url: "https://www.linkedin.com/in/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/renachongpq"
+      url: "https://github.com/Yingxuan-Wu.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
